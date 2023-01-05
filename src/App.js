@@ -1,8 +1,8 @@
 import "./App.css";
-import Hero from "./modules/Hero";
-import Button from "./modules/Button";
-import MainText from "./modules/MainText";
-import Cards from "./modules/Cards";
+import Hero from "./component/Hero";
+import Button from "./component/Button";
+import MainText from "./component/MainText";
+import Cards from "./component/Cards";
 
 // App.js yra pagrindinis komponentas
 // Vienas failas = vienas komponentas
